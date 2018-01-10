@@ -1,0 +1,27 @@
+{
+  "name": "express-routes",
+  "version": "1.0.0",
+  "description": "crud operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "crud",
+    "node",
+    "express",
+    "mongodb",
+    "http"
+  ],
+  "author": "boochoo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.10"
+  }
+}
