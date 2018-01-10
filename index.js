@@ -63,11 +63,3 @@ MongoClient.connect(
     });
   }
 );
-
-/*app.get("/", function(req, res) {
-  res.send("Yep it's working");
-});
-
-app.get("/love", function(req, res) {
-  res.send("Hi Love!");
-});*/
